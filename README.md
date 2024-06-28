@@ -1,4 +1,4 @@
-# Files Used for ReMA Thesis
+# Files used for ReMA Thesis
 
 **Thesis Title:** _Exploring the Effect of Differences in Logical Form on the Evaluation of Model Capabilities: A Comparison Between the COGS and ReCOGS Benchmarks_
 
