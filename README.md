@@ -23,7 +23,7 @@ Note that for my experiments, the ReCOGS and ReCOGSpos training ser were downsiz
 # Experiments
 
 Files:
-- ReCOGS_MyVersion.zip
+- TrainModels.zip
 
 The zip file includes the full folder of files used to run the experiments. The version of the folder included here is the one used to train models on my adjusted version of the ReCOGS dataset, it therefore also includes these data files. For the other three datasets the folders were exactly the same except for the LF specific dataset.
 
