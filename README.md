@@ -17,7 +17,9 @@ Folders:
 
 Files include the versions of the COGS, ReCOGS, and ReCOGSpos datasets used for this thesis. All folders include the training, development, test, and generalisaiton sets. 
 
-Note that for my experiments, the ReCOGS and ReCOGSpos training ser were downsized to the original COGS version of the training set.
+Note that for my experiments, the ReCOGS and ReCOGSpos training sets were downsized to the original COGS version of the training set.
+
+The data was taken and adapted from the GitHub repositories for the original COGS and ReCOGS benchmarks: https://github.com/najoungkim/COGS, https://github.com/frankaging/ReCOGS
 
 ---------
 # Experiments
@@ -27,7 +29,7 @@ Files:
 
 The zip file includes the full folder of files used to run the experiments. The version of the folder included here is the one used to train models on my adjusted version of the ReCOGS dataset, it therefore also includes these data files. For the other three datasets the folders were exactly the same except for the LF specific dataset.
 
-These files were taken from the ReCOGS github: https://github.com/frankaging/ReCOGS
+These files used to train models were taken from the ReCOGS GitHub repository: https://github.com/frankaging/ReCOGS
 
 ---------
 # Evaluation Code
